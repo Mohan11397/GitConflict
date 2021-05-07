@@ -13,6 +13,9 @@ public class Git {
 		System.out.println("pushing branch to A");
 		
 		System.out.println("branch B");
+		
+		System.out.println("changed to master");
+		
 	}
 	
 
