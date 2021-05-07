@@ -10,8 +10,9 @@ public class Git {
 		System.out.println("branch c");
 		
 		System.out.println(d);
+		System.out.println("pushing branch to A");
 		
-		
+		System.out.println("branch B");
 	}
 	
 
